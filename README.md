@@ -2,7 +2,7 @@
 
 
 
-this project serves for x64 assemble code testing
+this project serves to x64 assemble code testing
 
 
 
