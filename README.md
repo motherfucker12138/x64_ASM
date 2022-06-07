@@ -6,7 +6,7 @@ this project serves to x64 assemble code testing
 
 
 
-test your code at `源1.cpp.asm`
+test your code in file: `源1.cpp.asm`
 
 
 
